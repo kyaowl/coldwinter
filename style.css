@@ -54,6 +54,12 @@ blockquote
 	padding: 2%;
 }
 
+.gridsym
+{
+	margin: 0;
+	padding: 0;
+}
+
 /* Navigation */
 
 nav
@@ -145,6 +151,13 @@ nav .title
 	display: block;
 	padding: 2% 0 2% 6%;
 	border-bottom: 1px solid #fff;
+}
+
+.jdns
+{
+	margin: 0;
+	padding: 0;
+	text-align: center;
 }
 
 .sidebar li a:hover
